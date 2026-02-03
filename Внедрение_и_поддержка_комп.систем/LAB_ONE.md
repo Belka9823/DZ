@@ -6,7 +6,7 @@
 | Объем ОЗУ | 4096MB |
 | Объем жесткого диска | 232.9GB |
 | Операционная система | Microsoft Windows 10 Enterprise 2015 LTSB 64-Bit |
-| Разрядность ОС | 64(end_span) |
+| Разрядность ОС | 64 |
 | Сетевой адаптер | Intel(R) 82567LM-3 Gigabit Network Connection |
 | Видеоадаптер | Intel(R) Q45/Q43 Express Chipset (Microsoft Corporation - WDDM 1.1) |
 | Возраст пароля пользователя «st» | 19 Дни 22 Hours 18 Минуты |
