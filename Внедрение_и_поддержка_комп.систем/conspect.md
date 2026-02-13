@@ -198,3 +198,15 @@
 
 * Documented Testing: Тестирование по заранее разработанной документации (тест-кейсам).
 * Ad hoc Testing (Интуитивное): Бессистемный перебор вариантов работы системы без сценария.
+
+
+<img width="452" height="321" alt="image" src="https://github.com/user-attachments/assets/feb43935-3ce8-4578-b7a4-bc4b814aaadb" />
+<img width="470" height="347" alt="image" src="https://github.com/user-attachments/assets/44b0e706-2b0b-4ed0-a74c-44db853835f9" />
+<img width="438" height="334" alt="image" src="https://github.com/user-attachments/assets/deed07b6-a84d-484b-9bc6-bb5d92385832" />
+<img width="462" height="348" alt="image" src="https://github.com/user-attachments/assets/41589ee4-e344-419c-99fa-1c049b1d8353" />
+<img width="461" height="336" alt="image" src="https://github.com/user-attachments/assets/501dade6-595d-4f29-b6f4-f2d4b923fada" />
+<img width="478" height="324" alt="image" src="https://github.com/user-attachments/assets/dcf1320f-db56-4a2b-8766-346bcd2d181e" />
+<img width="515" height="381" alt="image" src="https://github.com/user-attachments/assets/def7931a-b122-43a9-9bbe-e339a5aad949" />
+
+
+
