@@ -24,12 +24,12 @@
 
 | Test name | Cycle | Operations | Errors | Last error Description |  
 | :-- | :-- | :-- | :-- | :-- |  
-| Cpu Temp |  |  |  |  |  
-| Cpu Coverege |  |  |  |  |  
-| Ram |  |  |  |  |  
-| 2D |  |  |  |  |  
-| 3D |  |  |  |  |  
-| localDisk |  |  |  |  |  
+| Cpu Temp | 9 | 9,257 Trillion | 0 | No errors |  
+| Cpu Coverege | 36 | 981,4 Billion | 0 | No errors |  
+| Ram | 92 | 392,189 billon | 0 | No errors |  
+| 2D | 8 | 63976 | 0 | No errors |  
+| 3D | 1 | 2967 | 0 | No errors |  
+| localDisk | 7| 18,361 Billion | 0 | No errors |  
 
 Контрольные вопросы:
 1.	Для чего необходимы программы для диагностики ПК?
