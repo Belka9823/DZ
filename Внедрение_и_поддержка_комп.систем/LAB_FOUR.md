@@ -47,20 +47,28 @@ o	Названия того что тестируется
 
 Пример каких данных использовать для заполнения таблицы
 1.
+
 <img width="661" height="260" alt="image" src="https://github.com/user-attachments/assets/b52660a4-6a84-47b7-bd33-6f295263f7b8" />
 2.
+
 <img width="625" height="346" alt="image" src="https://github.com/user-attachments/assets/67d90eec-2bb5-41e1-91ec-e03827bf8c46" />
 3.
+
 <img width="844" height="334" alt="image" src="https://github.com/user-attachments/assets/828da3c9-62a4-46d8-9cfa-20d334a4d949" />
 4.
+
 <img width="806" height="434" alt="image" src="https://github.com/user-attachments/assets/5369ce5d-09e1-4bbe-941f-1942f7061d83" />
 5.
+
 <img width="974" height="454" alt="image" src="https://github.com/user-attachments/assets/fee259fd-7154-4cf1-826c-9050222100bc" />
 6.
+
 <img width="974" height="408" alt="image" src="https://github.com/user-attachments/assets/ffc22d98-d053-4ae9-af17-54a399d27e43" />
 7. 
+
 <img width="917" height="335" alt="image" src="https://github.com/user-attachments/assets/75e3b6f8-490a-451b-bc26-d0ad6a9380d2" />
 8. 
+
 <img width="911" height="364" alt="image" src="https://github.com/user-attachments/assets/acb7d95b-5156-46f5-aa6e-941067122670" />
 
 # Средство диагностики DirectX
