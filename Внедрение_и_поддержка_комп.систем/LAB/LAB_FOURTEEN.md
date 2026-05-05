@@ -27,11 +27,11 @@ PCI\VEN_5333&DEV_8811&SUBSYS_00000000&REV_00\3&267A616A&0&40
 	
 | № |	Оборудование	| ID оборудования |	Версия драйвера	| Новая версия драйвера (Подкрепить скриншотом, что реально нашли) |
 | :-- | :-- | :-- | :--| :--| 
-| 1	| Видеоадаптер | | | |
-| 2 |	Звуковое устройство | | | | 			
-| 3	| Процессор	| | | | 					
-| 4	| Дисковое устройство  | | | |						
-| 5	| Сетевой адаптер |  | | |					
+| 1	| Видеоадаптер | ​PCI\VEN_8086&DEV_0102&SUBSYS_308C17AA&REV_09 PCI\VEN_8086&DEV_0102&SUBSYS_308C17AA PCI\VEN_8086&DEV_0102&CC_030000 PCI\VEN_8086&DEV_0102&CC_0300 | 9.17.10.4459 | 9.17.10.4459 | 
+| 2 | Звуковое устройство | HDAUDIO\FUNC_01&VEN_10EC&DEV_0662&SUBSYS_17AA308C&REV_1001 HDAUDIO\FUNC_01&VEN_10EC&DEV_0662&SUBSYS_17AA308C | 6.0.8988.1 | 6.0.8988.1 | 		
+| 3	| Процессор	| ACPI\GenuineIntel_-_Intel64_Family_6_Model_42 GenuineIntel_-_Intel64_Family_6_Model_42 ACPI\GenuineIntel_-_Intel64_Family_6 GenuineIntel_-_Intel64_Family_6 ACPI\GenuineIntel_-_Intel64 GenuineIntel_-_Intel64 | 10.0.17763.7553 | 10.0.17763.7553 |					
+| 4	| Дисковое устройство  |  SCSI\CdRomOptiarc_DVD_RW_AD-7290H_10D3 SCSI\CdRomOptiarc_DVD_RW_AD-7290H_ SCSI\CdRomOptiarc_ SCSI\Optiarc_DVD_RW_AD-7290H_1 Optiarc_DVD_RW_AD-7290H_1 GenCdRom | 10.0.17763.2686 | 10.0.17763.2686 | 				
+| 5	| Сетевой адаптер |  PCI\VEN_10EC&DEV_8168&SUBSYS_308C17AA&REV_06 PCI\VEN_10EC&DEV_8168&SUBSYS_308C17AA PCI\VEN_10EC&DEV_8168&CC_020000 PCI\VEN_10EC&DEV_8168&CC_0200 | 10.43.723.2020 | 10.43.723.2020 | 	 				
 		
 ### Контрольные вопросы:
 1.	Что такое драйвер?
