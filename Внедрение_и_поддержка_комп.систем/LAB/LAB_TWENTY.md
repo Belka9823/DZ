@@ -37,7 +37,7 @@
 
 3. Выберите **Дополнительные параметры** и установите параметры согласно скриншоту. Если данные характеристики не получается установить, то ставьте столько, сколько возможно.
 
-![msconfig дополнительные параметры](media/image2.png)
+<img width="418" height="383" alt="image" src="https://github.com/user-attachments/assets/a705602b-66e9-4b1d-890d-6612418b6746" />
 
 4. Нажмите **ОК**. Перезагрузите виртуальную машину, чтобы изменения вступили в силу.
 
@@ -50,12 +50,9 @@
 
 9. Выставляйте предложенные настройки согласно скриншотам. Некоторые настройки могут отличаться и быть неполными в зависимости от ПК или ноутбука.
 
-![Дополнительные параметры питания 1](media/image3.png)
-![Дополнительные параметры питания 2](media/image4.png)
-![Дополнительные параметры питания 3](media/image5.png)
-![Дополнительные параметры питания 4](media/image6.png)
-![Дополнительные параметры питания 5](media/image7.png)
-![Дополнительные параметры питания 6](media/image8.png)
+<img width="253" height="458" alt="image" src="https://github.com/user-attachments/assets/321f97d0-4fac-4a47-950b-f1c4a389317c" />
+
+<img width="225" height="527" alt="image" src="https://github.com/user-attachments/assets/a9e350c0-789e-4204-b9c0-6500ff87a254" />
 
 10. Нажмите **Применить** и **ОК**.
 
@@ -72,7 +69,7 @@
 
 14. Установите квоты согласно скриншоту.
 
-![Настройка квот](media/image9.png)
+<img width="223" height="242" alt="image" src="https://github.com/user-attachments/assets/61aac17c-24a0-4b6f-b716-ee2820f3a624" />
 
 15. Нажмите **Применить** и **ОК**.
 
@@ -80,11 +77,11 @@
 
 17. Настройте расписание дефрагментации.
 
-![Расписание дефрагментации](media/image10.png)
+<img width="241" height="196" alt="image" src="https://github.com/user-attachments/assets/2ff62d55-a432-4966-b97e-94a389a5abfb" />
 
 18. Проведите дефрагментацию диска.
 
-![Дефрагментация диска 1](media/image11.png) ![Дефрагментация диска 2](media/image12.png) ![Дефрагментация диска 3](media/image13.png)
+<img width="295" height="230" alt="image" src="https://github.com/user-attachments/assets/12f9eab8-5827-43e4-9805-d1902f8b25f1" />
 
 19. В панели управления найдите меню **«Диспетчер устройств»**.
 
@@ -94,56 +91,58 @@
 
 22. Установите параметр **«Быстрое удаление»**.
 
-![Политика жёсткого диска](media/image14.png)
+<img width="151" height="182" alt="image" src="https://github.com/user-attachments/assets/e2d22ace-70c3-4696-80e6-9ec812dc69c1" />
 
 23. Настройте точки мгновенного восстановления системы.
 
 - Нажмите кнопку **Пуск**, правой кнопкой мыши щёлкните **Компьютер → Свойства**. Откроется окно «Система».
 
-![Система](media/image15.png)
+<img width="218" height="116" alt="image" src="https://github.com/user-attachments/assets/29658807-45b4-4793-814d-f86e41cae040" />
 
 - Чтобы создать точку восстановления, выберите **Защита системы**. На вкладке «Защита системы» выберите **Создать**.
 
-![Защита системы](media/image16.png)
+<img width="257" height="139" alt="image" src="https://github.com/user-attachments/assets/8b0e4d2d-1599-4d7f-a034-823efb71ba0a" />
 
 - В поле описания «Создание точки восстановления» введите **Application Installed** (Приложение установлено).
 
-![Описание точки восстановления](media/image17.jpeg)
+<img width="185" height="92" alt="image" src="https://github.com/user-attachments/assets/5bd7d8f7-b824-4b7a-8ce4-2ae020909dd4" />
 
 - Нажмите кнопку **Создать**. Через некоторое время появится сообщение «Точка восстановления создана успешно». Нажмите кнопку **Закрыть**.
 
-![Точка создана](media/image18.jpeg)
+<img width="205" height="76" alt="image" src="https://github.com/user-attachments/assets/21a6ff59-4654-492b-b7ae-3d0ed2d89ba6" />
 
 - Нажмите кнопку **ОК**, чтобы закрыть окно «Свойства системы».
 - Выберите **Пуск → Все программы → Стандартные → Служебные → Восстановление системы**.
 - Когда откроется окно «Восстановление системы», нажмите кнопку **Далее**.
 
-![Восстановление системы](media/image19.jpeg)
+<img width="223" height="176" alt="image" src="https://github.com/user-attachments/assets/6c5bbf3f-fc76-40ba-b57d-70478a19d2c2" />
 
 - Появится список точек восстановления.
 
-![Список точек восстановления](media/image20.png)
+<img width="222" height="181" alt="image" src="https://github.com/user-attachments/assets/79f0cc1a-b816-4689-b2f7-d16380ddac01" />
 
 - Нажмите кнопку **Отмена**. Закройте все открытые окна.
 
 24. **Включение или отключение компонентов Windows**
 
-![Компоненты Windows 1](media/image21.png)
-![Компоненты Windows 2](media/image22.png)
-![Компоненты Windows 3](media/image23.png)
+<img width="262" height="104" alt="image" src="https://github.com/user-attachments/assets/ad5b2676-e553-4662-b636-7f4570e5a7ef" />
+
+<img width="329" height="340" alt="image" src="https://github.com/user-attachments/assets/04ce81eb-231b-4e4e-bb5d-009bc1a6c87f" />
 
 - Установите флажок **Службы IIS** и нажмите кнопку **ОК**.
 
-![Установка IIS](media/image24.png)
-![Установка IIS 2](media/image25.png)
+<img width="286" height="188" alt="image" src="https://github.com/user-attachments/assets/12b11ff5-ac56-48a3-b9c7-f020034614d9" />
+
+<img width="274" height="191" alt="image" src="https://github.com/user-attachments/assets/b746bf18-3b19-4c8f-ac3b-0f05efb5223f" />
+
 
 - Перезагрузите виртуальную машину.
 
-![Перезагрузка](media/image26.png)
+<img width="298" height="191" alt="image" src="https://github.com/user-attachments/assets/74bdc332-420e-4721-8213-46c665f20171" />
 
 - Откройте браузер EDGE и в строке адреса впишите `//localhost`.
 
-![localhost в Edge](media/image27.png)
+<img width="333" height="205" alt="image" src="https://github.com/user-attachments/assets/5465a0e5-d052-4bda-934d-f110dc2da1a3" />
 
 25. Подготовьте отчёт в электронном виде. Ответьте на контрольные вопросы письменно в тетради (Да, да, письменно!!!) и сдайте работу.
 
