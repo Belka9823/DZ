@@ -189,6 +189,7 @@ rwx --- r-- 1 student 100 May 20 12:50 file_3
 
 <img width="617" height="352" alt="image" src="https://github.com/user-attachments/assets/72e26675-e108-4d43-8176-6c050f394acb" />
 
+<img width="456" height="178" alt="image" src="https://github.com/user-attachments/assets/289332ed-9525-4c1e-93d9-5589d5e8e139" />
 
 
 
