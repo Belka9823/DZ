@@ -149,6 +149,20 @@ rwx --- r-- 1 student 100 May 20 12:50 file_3
 
 ---
 
+## Выполнение работы
+
+<img width="534" height="565" alt="image" src="https://github.com/user-attachments/assets/80f37e8e-ea90-4844-85bb-bdec89147512" />
+
+<img width="661" height="176" alt="image" src="https://github.com/user-attachments/assets/ed07cfc2-323e-4a6e-8f20-f3a2d7f9f079" />
+
+<img width="519" height="85" alt="image" src="https://github.com/user-attachments/assets/c5d7985f-d724-429a-bfec-d140ee0d7f19" />
+
+<img width="506" height="303" alt="image" src="https://github.com/user-attachments/assets/273dc7bf-eaeb-46db-a072-d72ca28bcd03" />
+
+<img width="652" height="453" alt="image" src="https://github.com/user-attachments/assets/8bda9083-e336-40ac-ad26-f04a9b19849a" />
+
+---
+
 ## Контрольные вопросы
 1. Что считается файлами в ОС LINUX?
 2. Объясните назначение связей с файлами и способы их создания.
