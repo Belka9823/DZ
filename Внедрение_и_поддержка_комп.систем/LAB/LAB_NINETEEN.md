@@ -16,7 +16,7 @@
 
 Запустить утилиту можно из классической Панели управления, перейдя по цепочке *Администрирование -- Просмотр событий* или выполнив в окошке Run (Win+R) команду **eventvwr.msc**.
 
-![ ](media/image2.jpeg)
+<img width="354" height="249" alt="image" src="https://github.com/user-attachments/assets/0a8b8678-990c-4fa5-86f3-81483f39696d" />
 
 В левой колонке окна утилиты можно видеть отсортированные по разделам журналы, в средней отображается список событий выбранной категории, в правой -- список доступных действий с выбранным журналом, внизу располагается панель подробных сведений о конкретной записи. Всего разделов четыре: настраиваемые события, журналы Windows, журналы приложений и служб, а также подписки.
 
@@ -38,9 +38,9 @@
 
 2. Запустить утилиту журнала событий можно из классической Панели управления, перейдя по цепочке *Администрирование -- Просмотр событий* или выполнив в окошке Run (Win+R) команду **eventvwr.msc**
 
-   ![ ](media/image3.png){width="3.9853762029746282in" height="2.101535433070866in"}
+<img width="398" height="209" alt="image" src="https://github.com/user-attachments/assets/623c47ca-2ba4-4be5-828a-22e52965af8a" />
 
-   ![ ](media/image4.png){width="4.761498250218723in" height="3.508899825021872in"}
+<img width="468" height="338" alt="image" src="https://github.com/user-attachments/assets/f2d181ed-6e09-4ed1-8d16-9862600628df" />
 
 3. **Изучите структуру журнала Windows.**
 
@@ -48,19 +48,21 @@
 
    **Установите фильтр для журнала система как показано на скриншоте, для этого** Выберите слева  *Журналы Windows -- Система*, справа нажмите «Фильтр текущего журнала» или «Создание настраиваемого представления»
 
-   ![ ](media/image5.png){width="4.409972659667542in" height="4.251580271216098in"}
+<img width="449" height="418" alt="image" src="https://github.com/user-attachments/assets/2e2b9e76-66fb-4268-89c7-b7bfe8401025" />
 
-   ![ ](media/image6.png)![ ](media/image7.png){width="5.462664041994751in" height="3.7610925196850395in"}
+<img width="556" height="359" alt="image" src="https://github.com/user-attachments/assets/5958bd07-2544-4fa3-b2e6-42e02d311190" />
+
 
    **[Сколько событий записано в журнал после применения фильтра? (В отчет)]{.mark}**
 
 5. **Сохраните фильтр. Для этого** справа нажмите «Сохранить фильтр в настраиваемом....». Настройте сохранение как показано на скриншоте и нажмите Ок
 
-   ![ ](media/image8.png){width="5.439757217847769in" height="4.561720253718285in"}
+<img width="559" height="435" alt="image" src="https://github.com/user-attachments/assets/7c12e499-25af-4801-8c05-8fc0c663b955" />
 
    Сохраненный фильтр появится в панели слева
 
-   ![ ](media/image9.png){width="2.290938320209974in" height="2.1998611111111113in"}
+<img width="249" height="237" alt="image" src="https://github.com/user-attachments/assets/8b2eb342-1aef-443e-9484-682bb42ea348" />
+
 
 6. **[Самостоятельно:]{.mark} Создайте фильтр для журнала «безопасность»**
 
@@ -89,35 +91,39 @@
 
    Для привязки задачи к событию -- выделите событие и справа на панели Действия выберите «Привязать задачу к событию»
 
-   ![ ](media/image10.png){width="2.503007436570429in" height="3.6848129921259845in"}
+<img width="276" height="361" alt="image" src="https://github.com/user-attachments/assets/fce49a21-421c-427d-9e70-fabcc524bd59" />
 
    Далее настройте задачу следуя указаниям скриншотов:
 
-   ![ ](media/image11.png){width="5.981162510936133in" height="4.75871719160105in"}
+<img width="596" height="465" alt="image" src="https://github.com/user-attachments/assets/3c5252a7-c95c-400b-bf85-d9d8a3bd7855" />
 
-   ![ ](media/image12.png){width="6.022525153105862in" height="4.79162510936133in"}
+
+<img width="597" height="465" alt="image" src="https://github.com/user-attachments/assets/426c1795-8704-4f7a-a995-049464f843e1" />
+
 
    В windows 7 выбираем Отобразить сообщение. В Windows 10 выбираем Запустить программу.
 
-   ![ ](media/image13.png){width="5.940513998250219in" height="4.726375765529309in"}
+<img width="589" height="460" alt="image" src="https://github.com/user-attachments/assets/a30edb38-ee7a-410f-8a7f-4c747c942e5a" />
 
-   ![ ](media/image14.png){width="6.025893482064742in" height="4.794305555555556in"}
+<img width="592" height="467" alt="image" src="https://github.com/user-attachments/assets/e0dd52a3-3f2c-4541-b293-d09b21404e0d" />
 
-   ![ ](media/image15.png){width="6.099192913385827in" height="4.852623578302712in"}
+<img width="603" height="472" alt="image" src="https://github.com/user-attachments/assets/e75c4b08-04cc-4639-8abd-e39aa7e961b1" />
 
    [Обязательно установите галочку «Открыть окно Свойство при нажатии кнопки готово»]{.mark}
 
    На вкладке Общие установите:
 
-   ![ ](media/image16.png){width="4.762319553805774in" height="4.010937226596676in"}
+<img width="493" height="387" alt="image" src="https://github.com/user-attachments/assets/ee160a90-9690-4d76-a854-8f8bf5ddd46a" />
+
 
    На вкладке «Параметры» установите:
 
-   ![ ](media/image17.png){width="6.496527777777778in" height="5.471527777777778in"}
+<img width="631" height="527" alt="image" src="https://github.com/user-attachments/assets/7e8fa123-4d96-414c-bb14-f598c2587596" />
+
 
 8. Очистите журнал «Установка»
 
-   ![ ](media/image18.png){width="2.3111570428696413in" height="4.378451443569554in"}
+<img width="252" height="439" alt="image" src="https://github.com/user-attachments/assets/9fcc3b58-7341-427b-93a0-429a73a320cd" />
 
 9. Командой **services.msc** откройте оснастку «Службы», справа найдите «Журнал событий Windows», кликните по нему дважды, в открывшемся окошке свойств настройте службу:
 
@@ -125,7 +131,8 @@
    >
    > Вкладка Восстановление:
    >
-   > ![ ](media/image19.png){width="3.8269553805774277in" height="2.897113954505687in"}
+   > <img width="386" height="284" alt="image" src="https://github.com/user-attachments/assets/00b7ad55-b457-4398-bc9f-fce8c9e7d535" />
+
 
 10. **Подготовьте и сдайте отчет. Вопросы устно**
 
