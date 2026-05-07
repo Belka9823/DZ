@@ -19,7 +19,7 @@
 *** Задание на лабораторную работу:
 1. Настройте центр обновления Windows 10 (пуск -> параметры -> обновление и безопасность)
 
-<img width="624" height="421" alt="image" src="https://github.com/user-attachments/assets/bcb63f85-f2ad-4c11-bbd1-92835b1ecc9c" />
+<img width="560" height="384" alt="image" src="https://github.com/user-attachments/assets/34d16103-2b96-4f29-be2a-75cea39e06fa" />
 
 1.1. Проверьте наличие новых обновлений
 
